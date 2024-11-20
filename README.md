@@ -11,12 +11,13 @@
 
 # **Pipeline Creation:**
   I created an automated pipeline for the seamless flow of data from Jupyter to SQL, ensuring that the data could be easily refreshed and processed in stages. 
-
-
-
+  
+  ![hotels_project_eda drawio](https://github.com/user-attachments/assets/087be295-9785-4344-9ced-2c7dd628188e)
 
 # **Power BI Visualization:**
   After the data was successfully loaded into SQL, I connected Power BI to the database. From there, I imported the data and utilized Power BI’s advanced visualization features to          generate insightful reports.
+
+  ![report](https://github.com/user-attachments/assets/29d739c0-9e29-4dff-affa-72aa6d99b4af)
 
 # **Report:**
   Using Power BI, I created interactive and detailed reports that highlighted key insights from the dataset. These reports provide a comprehensive overview of trends and patterns in the    data.
